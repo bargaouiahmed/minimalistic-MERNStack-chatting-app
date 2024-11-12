@@ -13,7 +13,7 @@ MongoDB for the database (you may use a local MongoDB instance or MongoDB Atlas 
 A .env file for environment variables.
 Setup Instructions
 1. Clone the Repository
-git clone https://github.com/yourusername/chatting-app-release.git
+git clone https://github.com/bargaouiahmed/chatting-app-release.git
 cd chatting-app-release
 2. Create a .env File in the Backend Folder
 Navigate to the backend folder and create a .env file to store the environment variables. This file should contain your MongoDB connection URI and JWT secret:
